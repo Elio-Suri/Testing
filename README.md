@@ -7,12 +7,13 @@ Exploring 2 different methods:
 - Conventional segmentation
 - Unet model
 
-## Software requirement
+## Software requirements
 
 ### Conventional
 MATLAB
 ### Unet
 Python
+
 
 ## Navigating through the files
 
