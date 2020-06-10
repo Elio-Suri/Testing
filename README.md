@@ -2,7 +2,7 @@
 
 Rheumatoid Arthritis is a long term autoimmune disorder that mainly affects joints and leads to warm, swollen, and painful joints. This project aim to develop a software that can assist skilled physician in analyzing ultrasound images of metacarpophalangeal joints and metatarsophalangeal joints.
 
-## Description
+## Descriptions
 Exploring 2 different methods:
 - Conventional segmentation
 - Unet model
